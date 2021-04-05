@@ -1,0 +1,24 @@
+/* CSS files add styling rules to your content */
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+
+html {
+  background: #000000;
+}
+
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  max-width: 640px;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Train One', cursive;
+  color: #FDB9C8;
+}
+
+p {
+  color: #FDB9C8;
+}
